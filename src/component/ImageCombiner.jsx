@@ -18,7 +18,7 @@ const ImageCombiner = ({
          display: "flex",
          justifyContent: "center",
          height: "350px",
-         width: "100%",
+         width: "700px",
       },
       innerWrapper: {
          display: "flex",
